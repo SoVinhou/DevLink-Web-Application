@@ -1,0 +1,37 @@
+.Verifyemail-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: auto;
+    background-position: center;
+    background-image: linear-gradient(rgba(219, 219, 219, 0.737), rgba(0, 0, 0, 0.776)), url(../images/cover.jpg);
+}
+
+.Verifyemail-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.597);
+    margin-top: 150px;
+    width: 30%;
+    border-radius: 40px;
+    margin-bottom: 150px;
+    height: 480px;
+    width: 500px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+  
+.Verifyemail-box h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.ForgotPassword-img {
+    margin-top: -10px;
+    margin-bottom: -40px;
+    width: 120px;
+    height: 120px;
+}
